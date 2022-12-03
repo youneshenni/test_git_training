@@ -8,8 +8,6 @@ les premiers pas dans git
 
 Paragraphe 2
 
-bgvh
-header 6
-paragraphe 07
-tableu 8
-ssd
+
+creation d'une branche GitHub 15:53 
+
