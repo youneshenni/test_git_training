@@ -8,4 +8,4 @@ les premiers pas dans git
 
 Parag
 
-Paragraphe 3
+Paragrap
