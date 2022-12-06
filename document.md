@@ -9,7 +9,3 @@ les premiers pas dans git
 
 Paragraphe 2
 Anfel kamraoui 
-
-creation d'une branche GitHub 15:53 
-
-first test
